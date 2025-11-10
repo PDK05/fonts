@@ -1,6 +1,6 @@
-# Nomna Fonts
+# Nomna Phông chữ
+
 - HanNomGothic
 - HanNomKhai
-- HanNomMinh
 - MiSansL3
 - NomNaTong
