@@ -6,3 +6,7 @@
 - HanNomMinh
 - MiSansL3
 - NomNaTong
+
+## .ttf
+- MinhNguyen
+- GothicNguyen
